@@ -1,5 +1,5 @@
 #
-🕰️ Timeless Watches - Product Page UI Design
+<h1>🕰️ Timeless Watches - Product Page UI Design</h1>
 This is a static UI design for a luxury watch product page built with HTML, CSS, and optionally JavaScript (if any interactivity is added later). The goal is to present a clean, elegant, and responsive product detail layout for an e-commerce watch store.
 
 📸 Project Overview
